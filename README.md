@@ -1,13 +1,26 @@
 Droid_DDosTools
 ----------------
 
-> ZhuZhiHao  
-> 2016-2-25  
+> ZhuZhiHao  > 2016-2-25  
+> 2016-4-17  
 
 - **不要用于非法行为！！**
 
-### Whats
+### 啥
 - 几个简单的DDOS小程序。
-- 你懂得...
 
-- ZhuZhiHao == SB
+### 编译
+- `arm-linux-androideabi-gcc *.c -lpthread`
+
+### 安装
+- 预编译可执行文件在`Droid_DDosTools/Bins`下，请将Bins文件夹及其文件移动到 Android `/data/data/` 下
+- `adb push Droid_DDosTools/Bins /data/data/Bins && chmod 755 /data/data/Bins -R`
+- `export PATH=$PATH:/data/data/Bins`
+- 试试看吧！
+- `which Chargen && Chargen`
+
+### 关于我
+- [ZhuZhiHao|Linuxer+高中生](http://zhu-zhi-hao.github.io/)
+- NOTE：**我是单身狗**
+
+
