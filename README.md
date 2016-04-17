@@ -20,6 +20,10 @@ Droid_DDosTools
 - 试试看吧！
 - `which Chargen && Chargen`
 
+### TODO
+- 以后会有UI界面的，等一等吧...
+- 移植BoNeSi僵尸网络模拟/大规模网际流量模拟
+
 ### 关于我
 - [ZhuZhiHao|Linuxer+高中生](http://zhu-zhi-hao.github.io/)
 - NOTE：**我是单身狗**
